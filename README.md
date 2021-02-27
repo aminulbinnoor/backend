@@ -2,7 +2,7 @@
 
 #### 1. To install run the following commands in a working directory: 
 ```
-git clone https://github.com/aminulbinnoor/frontend.git
+git clone https://github.com/aminulbinnoor/backend.git
 ```
 #### 2. Now run and make sure you have the composer installed on your machine:
 ```
